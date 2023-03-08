@@ -1,3 +1,4 @@
 hello git
 <<<<<<< HEAD
 C1 do C2
+branch
